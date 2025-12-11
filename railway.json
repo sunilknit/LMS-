@@ -1,0 +1,6 @@
+{
+  "nixpacks": {
+    "install": ["cd library-backend && npm install"],
+    "start": "cd library-backend && node server.js"
+  }
+}
